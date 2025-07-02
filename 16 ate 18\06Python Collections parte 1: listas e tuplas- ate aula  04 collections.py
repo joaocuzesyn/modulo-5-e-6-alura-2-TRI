@@ -1,4 +1,4 @@
-#codigo aula 04 Collections.ipynb completo e confuso e com alguns erro ate completar as aulas e arrumar os erros 
+#codigo aula 04 collections.py completo e confuso e com alguns erro ate completar as aulas e arrumar os erros 
 
 # -*- coding: utf-8 -*-
 """Introdução a Collections
